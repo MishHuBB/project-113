@@ -1,0 +1,12 @@
+h3 {
+    font-size: 25px !important;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+canvas {
+    border: 1px dotted black;
+}
+
+body {
+text-align: center;
+}
